@@ -31,6 +31,10 @@ input[type="submit"]{
     margin: 1%;
 }
 
+p{
+    color:blue;
+}
+
 label{
     padding: 10px;
 }
